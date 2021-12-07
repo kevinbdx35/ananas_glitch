@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    position: absolute;
+    width: 100vw;
+    height: 100vh ;
+    overflow: hidden;
+    background: url(pineapple.jpg);
+    background-size: cover;
+
+    background-attachment: fixed;
+    
+}
+
+.box{
+    position: absolute;
+    background: url(pineapple.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
