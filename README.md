@@ -50,10 +50,10 @@ No API
 
 ## Author
 
+- Kévin B.
+
 ## Source
 
-- Idea from Brad Traversy and Florin Pop
 - Picture from Unsplash
-
 
 ## License
